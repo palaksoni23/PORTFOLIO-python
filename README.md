@@ -48,3 +48,7 @@ It opens at http://localhost:8501
   each entry is `(list_of_example_phrasings, answer_text)`.
 - Colors are CSS variables at the top of the `st.markdown(...)` style
   block (`--coral`, `--amber`, `--indigo`, `--bg`, etc).
+
+ ## Live Link
+
+ https://palak-portfolio-u1ra.onrender.com
